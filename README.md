@@ -24,6 +24,6 @@ Projeto feito como um agregador de links para usar como cartão de visitas onlin
 
   <p align="center">
     <img alt="prototipo" src=".github/preview.png.png"
-    width="100">
+    width="100%">
     </p>  
  
